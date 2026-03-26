@@ -17,3 +17,6 @@ Rutina/Funcion principal
 """
 if __name__ == "__main__":
     cosmos(aliens, planetas, galaxias)
+
+def explora():
+    print("Implementación 2 de D")
