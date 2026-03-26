@@ -20,4 +20,11 @@ if __name__ == "__main__":
 
 # main.py
 def explora():
-    print("Implementación 1 de C")
+    print("Implementación 1 de C y D")
+    
+"""
+def explora():
+    print("Implementación 2 de D")
+>>>>>>> feature/explora_D
+"""
+
